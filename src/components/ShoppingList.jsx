@@ -11,7 +11,7 @@ const ShoppingList = () => {
           <span className="times">&times;</span>
         </div>
       </div>
-      
+
       <div className="list-item active">
         <div className="item-info">
           <span>14</span>
